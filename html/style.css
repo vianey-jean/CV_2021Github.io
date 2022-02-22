@@ -102,6 +102,7 @@ p {
   height: 100%;
   min-height: 900px;
   color: #fff;
+  border-radius: 10px
 
 }
 
@@ -226,6 +227,7 @@ p {
   
   padding: 60px;
   padding-right: 300px;
+  border-radius: 10px
 }
 
 .main-wrapper .section-title {
